@@ -25,8 +25,19 @@ List the key features of your website. What can visitors expect to find or do on
 
 ## Getting Started
 
-If there are any specific steps or requirements for setting up or running your website locally, provide them here. This might include installation instructions, dependencies, or configuration details.
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
 
-```bash
-# Example command to run the website locally
-$ npm start
+### Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- **Web Browser:** You will need a modern web browser like Chrome, Firefox, or Safari to view the website.
+
+### Installation
+
+Follow these steps to set up the project on your local machine:
+
+1. **Clone the Repository:** Start by cloning this repository to your local machine. Open your terminal or command prompt and run the following command:
+
+   ```bash
+   git clone https://github.com/your-username/your-static-website.git
